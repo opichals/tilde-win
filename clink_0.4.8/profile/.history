@@ -1,0 +1,456 @@
+git status
+cd \ev\
+exit
+who
+ps axf
+ps
+wget
+type wget
+which wget
+which
+env
+set
+exit
+cd
+cd \ev
+exit
+cd
+cd \ev
+git status
+git branch
+ll
+who
+git llog
+clink autorun --help
+clink autorun show
+clink autorun install
+exit
+clink autorun install
+ll
+dir
+pwd
+cd \ev
+git llog
+clink autorun show
+clink autorun --help
+exit
+git status
+cd \ev\
+exit
+who
+ps axf
+ps
+wget
+type wget
+which wget
+which
+exit
+cd
+cd \ev
+exit
+cd
+cd \ev
+ll
+who
+git llog
+clink autorun --help
+clink autorun show
+clink autorun install
+exit
+clink autorun install
+ll
+pwd
+clink autorun show
+clink autorun --help
+where /?
+where keytool.exe
+.\create-keystore.bat 
+.\create-keystore.bat keystore.jks certificates\server-cert.pem certificates\server-cert.p12 
+dir
+cat certificates\server-key.pass 
+for %I in (%JAVA_BIN%) do @set KEYTOOL_BIN=%~dpI\keytool.exe
+env
+set
+for %I in (%JAVA_BIN%) do echo KEYTOOL_BIN=%~dpI\keytool.exe
+for %I in (%JAVA_BIN%) do @echo KEYTOOL_BIN=%~dpI\keytool.exe
+for %I in ("%JAVA_BIN%") do @echo KEYTOOL_BIN=%~dpI\keytool.exe
+echo %JAVA_BIN%
+echo %JAVA_HOME%
+for %I in (%JAVA_HOME%) do @echo KEYTOOL_BIN=%~dpI\keytool.exe
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpI\keytool.exe
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpIkeytool.exe
+set JAVA_HOME=
+rm keystore.jks 
+.\create-keystore.bat keystore.jks certificates\server-cert.pem certificates\server-cert.p12 changeit changeit
+git stash
+git co master
+git stash pop
+qqq
+gi q
+git stash popq
+git branch
+cd ev
+cd ëv
+cd \ev
+git commit -a
+git pull --rebase upstream master
+git status
+git rebase --continue
+git llog -e
+git llog -p
+git llog
+git log
+git commit --amend
+git diff
+git commit --amend -a
+qq
+git log -p
+Q
+EXT
+stuq
+q
+drq
+exit
+clink autorun --help
+clink autorun show
+clink autorun install
+exit
+clink autorun install
+pwd
+cd \ev
+git llog
+clink autorun show
+clink autorun --help
+ps
+pps
+hps
+cd sv-lab-4.10-SNAPSHOT-bin\Lab\
+ll
+ls
+ls -la
+cd ..
+cd
+cd target\
+dir
+ps axf
+CD \ev\
+git status
+echo %JAVA_HOME%
+echo %JAVA_HOME%~dp
+echo %~dpJAVA_HOME%
+echo %~dp%JAVA_HOME%
+echo ~dp%JAVA_HOME%
+echo %~dpJAVA_HOME
+for %I in (%JAVA_HOME%) do @echo %~xI
+for %I in (%JAVA_HOME%) do @echo %~dpI
+for %I in (%JAVA_HOME%\bin) do @echo %~dpI
+for %I in ("%JAVA_HOME%\bin") do @echo %~dpI
+for %I in ("%JAVA_HOME%\bin") do @set %~dpI
+for %I in ("%JAVA_HOME%\bin") do @set X=%~dpI
+set
+cd -
+git log -p
+git diff
+git commit -a 
+git branch
+exit
+drq
+ruh
+run
+exit
+dir
+run
+cat run.bat 
+exit
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpI\keytool.exe
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpIkeytool.exe
+set JAVA_HOME=
+rm keystore.jks 
+.\create-keystore.bat keystore.jks certificates\server-cert.pem certificates\server-cert.p12 changeit changeit
+git stash
+git stash pop
+qqq
+gi q
+git stash popq
+cd ev
+cd ëv
+git rebase --continue
+git llog -e
+git log
+git commit --amend
+git commit --amend -a
+qq
+Q
+EXT
+stuq
+q
+drq
+cd \ev
+git log -p
+git diff
+git grep jersey-container-jdk-http
+git co master
+git status
+git llog
+git commit -a
+git branch
+git push upstream HEAD
+git co -
+git pull --rebase upstream master
+git llog -p
+git push origin HEAD --force
+exit
+server-start.bat 
+exit
+CPU
+Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz
+Maximum speed:2.80 GHz
+Sockets:1
+Cores:4
+Logical processors:8
+Virtualization:Enabled
+L1 cache:256 KB
+L2 cache:1.0 MB
+L3 cache:6.0 MB
+Utilization72%
+Speed2.52 GHz
+Up time0:05:44:34
+Processes248
+Threads2919
+Handles96124
+exit
+cp C:\Users\standa\.m2\repository\org\kohsuke\github-api\1.89\github-api-1.89.jar
+C:\Users\standa\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar
+C:\Users\standa\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+C:\Users\standa\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.8.8\jackson-databind-2.8.8.jar
+C:\Users\standa\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.8.8\jackson-annotations-2.8.8.jar
+C:\Users\standa\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.8.8\jackson-core-2.8.8.jar
+C:\Users\standa\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar
+C:\Users\standa\.m2\repository\com\infradna\tool\bridge-method-annotation\1.14\bridge-method-annotation-1.14.jar
+C:\Users\standa\.m2\repository\org\jenkins-ci\annotation-indexer\1.4\annotation-indexer-1.4.jar
+exit
+git branch
+exit
+drq
+ruh
+run
+exit
+run
+cat run.bat 
+exit
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpI\keytool.exe
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpIkeytool.exe
+set JAVA_HOME=
+rm keystore.jks 
+.\create-keystore.bat keystore.jks certificates\server-cert.pem certificates\server-cert.p12 changeit changeit
+qqq
+gi q
+git stash popq
+cd ev
+cd ëv
+git rebase --continue
+git llog -e
+git commit --amend
+qq
+Q
+EXT
+stuq
+q
+drq
+cd \ev
+git log -p
+git grep jersey-container-jdk-http
+git llog -p
+cd \ev\
+git co master
+rm "HPE SV 4.0 Delta Training - Lesson 15 - Testing ALM Octane.pptx" 
+rm README.pdf 
+rm "SV Lab ALM Octane 09-2017.pptx" 
+rm application.pid 
+rm -rf  src/cmd-svcapture/main/impl/src/main/java/com/hpe/sv/tools/capture/all-swagger.json
+rm -rf src\demo\timezone-api\src\doc\readme... 
+rm -rf  src/demo/timezone-api/src/test/resources/
+rm -rf  src/demo/timezone-api/src/test/resources
+rm -rf  src/deployment-library/main/impl/node_modules
+rm -rf src\vsl-compiler\service\main\impl\npm-list*
+cat x.js 
+rm x.js 
+vi yuidoc.json 
+cat yuidoc.json 
+vim yuidoc.json 
+rm yuidoc.json 
+ll
+ls -la
+dir
+git log
+git stash
+git stash pop
+git status
+git commit 
+git commit --amend -a
+git llog
+git push upstream HEAD
+git co -
+git pull --rebase upstream master
+git branch
+git commit -a
+git push origin HEAD 
+git push origin HEAD --force
+gb
+git diff
+exit
+git diff
+dir
+ls -la
+cd \ev\
+git status
+exit
+cd \ev\
+git status
+exit
+ls -la
+cd \ev\
+git commit -a
+git branch
+git status
+exit
+cd \ev\git\test\
+git commit -a
+exit
+C:\Users\standa\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.8.8\jackson-core-2.8.8.jar
+C:\Users\standa\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar
+C:\Users\standa\.m2\repository\com\infradna\tool\bridge-method-annotation\1.14\bridge-method-annotation-1.14.jar
+C:\Users\standa\.m2\repository\org\jenkins-ci\annotation-indexer\1.4\annotation-indexer-1.4.jar
+exit
+git branch
+exit
+drq
+ruh
+run
+exit
+run
+cat run.bat 
+exit
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpI\keytool.exe
+for %I in ("%JAVA_HOME%") do @echo KEYTOOL_BIN=%~dpIkeytool.exe
+set JAVA_HOME=
+rm keystore.jks 
+.\create-keystore.bat keystore.jks certificates\server-cert.pem certificates\server-cert.p12 changeit changeit
+qqq
+gi q
+git stash popq
+cd ev
+cd ëv
+git rebase --continue
+git llog -e
+git commit --amend
+qq
+Q
+EXT
+stuq
+q
+drq
+cd \ev
+git grep jersey-container-jdk-http
+git llog -p
+rm "HPE SV 4.0 Delta Training - Lesson 15 - Testing ALM Octane.pptx" 
+rm README.pdf 
+rm "SV Lab ALM Octane 09-2017.pptx" 
+rm application.pid 
+rm -rf  src/cmd-svcapture/main/impl/src/main/java/com/hpe/sv/tools/capture/all-swagger.json
+rm -rf src\demo\timezone-api\src\doc\readme... 
+rm -rf  src/demo/timezone-api/src/test/resources/
+rm -rf  src/demo/timezone-api/src/test/resources
+rm -rf  src/deployment-library/main/impl/node_modules
+rm -rf src\vsl-compiler\service\main\impl\npm-list*
+cat x.js 
+rm x.js 
+vi yuidoc.json 
+cat yuidoc.json 
+vim yuidoc.json 
+rm yuidoc.json 
+ll
+ls -la
+dir
+git stash
+git stash pop
+git commit 
+git commit --amend -a
+git push upstream HEAD
+gb
+cd \ev\
+git commit -a
+git commit -- src/deployment-library
+git commit -- src/deployment-library pom.xml 
+git commit -a -m "TC: ServerDistribution dep added to demo tests"
+git grep proxyHost 
+git grep proxyPort
+git grep proxy
+git show 8842322
+git co =
+git commit --amend --date="now"
+now
+git log -p
+git co master
+java -jar -Dx=10
+java -jar main.jar -Dx=10
+java -h
+git co -
+git commit -a -m "Demos: TEST DemoProcess to use HTTP_PROXY to set JAVA_OPTIONS"
+git push origin HEAD 
+git llog master
+git branch
+git log
+git commit --amend 
+git status
+git show 352eac8
+git pull --rebase upstream master
+git llog
+git push origin HEAD --force
+git diff
+git commit -m "X" -a
+git rebase -i upstream/master
+exit
+exit
+cd \ev\git\test\
+git commit -a
+git branch
+git status
+exit
+git branch
+cd \ev\
+cd git\
+cd test\
+git status
+ll
+dir
+ls -la
+vi index.js 
+vim index
+vim index.js 
+git init
+git add index.js package.json 
+git commit -a
+exit
+cd \ev\git\test\
+git commit -a
+exit
+git add index.js package.json 
+cd \
+cd \ev\git\test\
+git status
+git commit -a
+exit
+exit
+cd \ev\git\test\
+exit
+exit
+exit
+exit
+cd \ev\
+git diff
+exit
+exit
+cd \ev\
+git diff
+exit
